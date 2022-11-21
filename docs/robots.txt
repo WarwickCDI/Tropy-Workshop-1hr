@@ -1,1 +1,0 @@
-Sitemap: https://WarwickCDI.github.io/workshop-template/sitemap.xml
