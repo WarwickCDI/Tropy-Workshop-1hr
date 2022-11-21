@@ -1,1 +1,22 @@
+---
+title: "A first archive"
+author: "James Tripp"
+format: html
+---
 
+# Aim
+
+* Explore the Tropy user interface
+* Create a project and import photos
+* Start describing these photos using a metadata vocabulary
+
+# Images
+
+The
+
+https://iiif.io/guides/finding_resources/
+
+
+Difference between an item and nested photos
+Some consideration about the vocabulary we can use
+Importing items via IIF manifests

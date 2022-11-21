@@ -1,6 +1,6 @@
 ---
 title: "Outline"
-author: "Workshop Author"
+author: "James Tripp"
 format: html
 ---
 
@@ -9,8 +9,10 @@ format: html
 ::: callout-tip
 ## Pre Work
 
--   Action 1
--   Action 2
+Please install the Tropy program before the this workshop.
+
+-   You can download the Tropy program from [here](https://tropy.org/)
+-   If you are using managed University of Warwick laptop running Windows 10 then you can install Tropy from the software centre
 :::
 
 ------------------------------------------------------------------------
@@ -19,17 +21,17 @@ format: html
 
 <!-- See https://quarto.org/docs/visual-editor/content.html -->
 
-📅25th June
+📅TBC
 
-⏰10:00 - 10:30
+⏰TBC
 
-🏠Location
+🏠TBC
 
 ------------------------------------------------------------------------
 
 ## Overview
 
-Here is an outline of the workshop
+In this workshop, we examine how to use the Research Photo Management program Tropy. Our aim will be to get some hands on experience of building and exploring an image archive.
 
 ### Schedule
 
@@ -40,17 +42,22 @@ Here is an outline of the workshop
 | [Activity 1](materials/activity/01-activity1/activity1.qmd) | 30 mins |
 | Activity 2                                                  | 10 mins |
 
-## Learning objectives
-
--   Objective 1
--   Objective 2
-
 ## Instructor
 
-Here are your details
+::: columns
+::: {.column width="50%"}
+James Tripp is a Senior Research Software Engineer at the University of Warwick. He has been working at the intersection of research and technology for over 10 years.
+
+Twitter: [\@jamestripp\_](https://twitter.com/jamestripp_) Email: [james.tripp\@warwick.ac.uk](mailto:james.tripp@warwick.ac.uk)
+:::
+
+::: {.column width="50%"}
+![](materials/images/james.jfif){fig-alt="James Tripp" fig-align="center" width="250"}
+:::
+:::
 
 ------------------------------------------------------------------------
 
 <!-- Do make sure this is the right license -->
 
-![](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+<!-- ![](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). -->
