@@ -4,28 +4,21 @@
     "href": "index.html",
     "title": "Outline",
     "section": "",
-    "text": "Pre Work\n\n\n\n\nAction 1\nAction 2\n📅25th June\n⏰10:00 - 10:30\n🏠Location"
+    "text": "Pre Work\n\n\n\nPlease install the Tropy program before the this workshop.\n\nYou can download the Tropy program from here\nIf you are using managed University of Warwick laptop running Windows 10 then you can install Tropy from the software centre\n📅TBC\n⏰TBC\n🏠TBC"
   },
   {
     "objectID": "index.html#overview",
     "href": "index.html#overview",
     "title": "Outline",
     "section": "Overview",
-    "text": "Overview\nHere is an outline of the workshop\n\nSchedule\n\n\n\n\n\nActivity\nTime\n\n\n\n\nActivity 1\n30 mins\n\n\nActivity 2\n10 mins"
-  },
-  {
-    "objectID": "index.html#learning-objectives",
-    "href": "index.html#learning-objectives",
-    "title": "Outline",
-    "section": "Learning objectives",
-    "text": "Learning objectives\n\nObjective 1\nObjective 2"
+    "text": "Overview\nIn this workshop, we examine how to use the Research Photo Management program Tropy. Our aim will be to get some hands on experience of building and exploring an image archive.\n\nSchedule\n\n\n\n\n\nActivity\nTime\n\n\n\n\nActivity 1\n30 mins\n\n\nActivity 2\n10 mins"
   },
   {
     "objectID": "index.html#instructor",
     "href": "index.html#instructor",
     "title": "Outline",
     "section": "Instructor",
-    "text": "Instructor\nHere are your details\n\n\n This work is licensed under a Creative Commons Attribution 4.0 International License."
+    "text": "Instructor\n\n\nJames Tripp is a Senior Research Software Engineer at the University of Warwick. He has been working at the intersection of research and technology for over 10 years.\nTwitter: @jamestripp_ Email: james.tripp@warwick.ac.uk"
   },
   {
     "objectID": "materials/slides/introduction.html#first-slide",
@@ -33,5 +26,12 @@
     "title": "Presentation Title",
     "section": "First slide",
     "text": "First slide\n\nTopic 1\nTopic 2\nTopic 3\n\n\n\n\nslide_url"
+  },
+  {
+    "objectID": "materials/activity/01-activity1/activity1.html",
+    "href": "materials/activity/01-activity1/activity1.html",
+    "title": "A first archive",
+    "section": "",
+    "text": "Aim\n\nExplore the Tropy user interface\nCreate a project and import photos\nStart describing these photos using a metadata vocabulary\n\n\n\nImages\nThe\nhttps://iiif.io/guides/finding_resources/\nDifference between an item and nested photos Some consideration about the vocabulary we can use Importing items via IIF manifests"
   }
 ]
